@@ -1,0 +1,38 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : spring-mvc-assign-Q8 : spring-mvc-assign-Q8-1.0-SNAPSHOT.war (exploded)">
+    <output-path>$PROJECT_DIR$/build/libs/exploded/spring-mvc-assign-Q8-1.0-SNAPSHOT.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/libs/exploded/spring-mvc-assign-Q8-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="spring-mvc-assign-Q8_main/web/Web Gradle : spring-mvc-assign-Q8-1.0-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="spring-mvc-assign-Q8_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/build/resources/main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/4.2.5.RELEASE/ed09517441a276db2a7e0e7b60a390c52b8093af/spring-aspects-4.2.5.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.2.5.RELEASE/cf463cce3e4453eb4b9a69de2dcdfd60c3c57e0/spring-webmvc-4.2.5.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/4.2.0.Final/eac2db0a9d86a9749724fe93d43afffa8106f25e/hibernate-validator-4.2.0.Final.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.8/969c8d3d3d56db1e1c8721a03ef07d0c9ac3a2e4/aspectjweaver-1.8.8.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.2.5.RELEASE/49cd2430884b77172aa81e3fc33ef668ea1dab30/spring-web-4.2.5.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.2.5.RELEASE/a75e18322c7b362fe1daa26a245ae672ec0f3138/spring-context-4.2.5.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.2.5.RELEASE/858d6c70909b3ce7e07b59fc936f8ccfcd81c0aa/spring-aop-4.2.5.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.2.5.RELEASE/fa992ae40f6fc47117282164e0433b71da385e94/spring-beans-4.2.5.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.2.5.RELEASE/a42bdfb833d0be6c18429aea3fb0fba81f85c6e8/spring-expression-4.2.5.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.2.5.RELEASE/251207b29f0f38f61e3495a2f7fb053cf1bfe8c/spring-core-4.2.5.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.0.0.GA/b6bd7f9d78f6fdaa3c37dae18a4bd298915f328e/validation-api-1.0.0.GA.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.6.1/6f3b8a24bf970f17289b234284c94f43eb42f0e4/slf4j-api-1.6.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
